@@ -1,4 +1,4 @@
-# Text Generation
+# Language Generation - Train DISTIL-GPT2 to crack jokes
 
 This notebook fine tunes the famous text generation GPT2 model from OpenAI.
 Depending on the train data, we can make this model sing, recite poems or cooking recipes.
